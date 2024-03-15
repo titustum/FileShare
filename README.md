@@ -1,6 +1,6 @@
-# Swara
+# Swara Fileshare
 
-Swara is an open-source file-sharing software designed to simplify the process of sharing files across networked computers. With Swara, you can seamlessly transfer files between Windows and Mac systems using a user-friendly graphical interface.
+Swara Fileshare is an open-source file-sharing software designed to simplify the process of sharing files across networked computers. With Swara, you can seamlessly transfer files between Windows and Mac systems using a user-friendly graphical interface.
 
 ## Features
 
